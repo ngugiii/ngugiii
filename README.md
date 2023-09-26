@@ -14,10 +14,7 @@
   </a>
 </div>
   </div>
-<h1>
-  hey there
-👋
-</h1>
+###Hey There👋
 :telescope: I’m working as a Frontend Developer Responsible for creating Modern, Interactive, Functional and User-Friendly Web applications.
 
 - :seedling: Exploring Backend Development.
