@@ -13,11 +13,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  </div>
-<h1>
-  Hey There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  </div>
 :telescope: I’m working as a Frontend Developer Responsible for creating Modern, Interactive, Functional and User-Friendly Web applications.
 
 - :seedling: Exploring Backend Development.
