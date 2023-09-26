@@ -14,7 +14,10 @@
   </a>
 </div>
   </div>
-### Hey There👋
+<h1>
+  Hey There
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+</h1>
 :telescope: I’m working as a Frontend Developer Responsible for creating Modern, Interactive, Functional and User-Friendly Web applications.
 
 - :seedling: Exploring Backend Development.
