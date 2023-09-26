@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://erickngugi.netlify.app/">
-    <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="https://twitter.com/Erickngugi_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
