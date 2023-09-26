@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  <div justify="center" flex align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-     Hey there
+   <div id="hey-there" style="display: flex; align-items: center; justify-content: center;">
+    <h1>Hey There</h1>
+<!--     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" /> -->
   </div>
   </div>
 :telescope: I’m working as a Frontend Developer Responsible for creating Modern, Interactive, Functional and User-Friendly Web applications.
